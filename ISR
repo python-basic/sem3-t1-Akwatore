@@ -34,3 +34,7 @@ def f(a,b,c):
     else:
      print(float(a/b))
 f(a,b,c)
+
+Ссылки на repl: 
+https://repl.it/@ulyaakwatore/Tema-1-ISR-12-13
+https://repl.it/@ulyaakwatore/Tema-1-ISR-14
